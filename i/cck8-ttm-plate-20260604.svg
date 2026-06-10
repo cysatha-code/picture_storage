@@ -1,0 +1,357 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="760" viewBox="0 0 980 760">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="490" y="34" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#1f2937">CCK-8 TTM Plate Layout · 2026-06-04</text>
+<text x="490" y="58" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#6b7280">B-F = 5 replicates · ES gradient 0/5/10/20/40/80/160/250 nM · outer wells = PBS</text>
+<text x="106.0" y="77" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#64748b">1</text>
+<text x="178.0" y="77" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#64748b">2</text>
+<text x="250.0" y="77" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#64748b">3</text>
+<text x="322.0" y="77" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#64748b">4</text>
+<text x="394.0" y="77" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#64748b">5</text>
+<text x="466.0" y="77" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#64748b">6</text>
+<text x="538.0" y="77" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#64748b">7</text>
+<text x="610.0" y="77" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#64748b">8</text>
+<text x="682.0" y="77" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#64748b">9</text>
+<text x="754.0" y="77" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#64748b">10</text>
+<text x="826.0" y="77" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#64748b">11</text>
+<text x="898.0" y="77" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#64748b">12</text>
+<text x="42" y="137.0" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#64748b">A</text>
+<rect x="77" y="103" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>A1: PBS 蒸发屏障</title>
+<text x="106" y="136" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<rect x="149" y="103" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>A2: PBS 蒸发屏障</title>
+<text x="178" y="136" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<rect x="221" y="103" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>A3: PBS 蒸发屏障</title>
+<text x="250" y="136" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<rect x="293" y="103" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>A4: PBS 蒸发屏障</title>
+<text x="322" y="136" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<rect x="365" y="103" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>A5: PBS 蒸发屏障</title>
+<text x="394" y="136" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<rect x="437" y="103" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>A6: PBS 蒸发屏障</title>
+<text x="466" y="136" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<rect x="509" y="103" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>A7: PBS 蒸发屏障</title>
+<text x="538" y="136" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<rect x="581" y="103" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>A8: PBS 蒸发屏障</title>
+<text x="610" y="136" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<rect x="653" y="103" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>A9: PBS 蒸发屏障</title>
+<text x="682" y="136" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<rect x="725" y="103" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>A10: PBS 蒸发屏障</title>
+<text x="754" y="136" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<rect x="797" y="103" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>A11: PBS 蒸发屏障</title>
+<text x="826" y="136" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<rect x="869" y="103" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>A12: PBS 蒸发屏障</title>
+<text x="898" y="136" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<text x="42" y="209.0" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#64748b">B</text>
+<rect x="77" y="175" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>B1: PBS 蒸发屏障</title>
+<text x="106" y="208" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<rect x="149" y="175" width="58" height="54" rx="18" fill="#d6ebf7" stroke="#5b9bc4" stroke-width="2.2"/>
+<title>B2: TTM + Cu-only
+0 nM ES</title>
+<text x="178" y="208" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f3a52">0</text>
+<rect x="221" y="175" width="58" height="54" rx="18" fill="#f5f1fb" stroke="#c9b6e0" stroke-width="2.2"/>
+<title>B3: ES 5 nM + TTM + Cu</title>
+<text x="250" y="208" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#2b1f4d">5</text>
+<rect x="293" y="175" width="58" height="54" rx="18" fill="#ece4f6" stroke="#bda5d8" stroke-width="2.2"/>
+<title>B4: ES 10 nM + TTM + Cu</title>
+<text x="322" y="208" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#2b1f4d">10</text>
+<rect x="365" y="175" width="58" height="54" rx="18" fill="#e0d2ef" stroke="#ab8fce" stroke-width="2.2"/>
+<title>B5: ES 20 nM + TTM + Cu</title>
+<text x="394" y="208" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#2b1f4d">20</text>
+<rect x="437" y="175" width="58" height="54" rx="18" fill="#d0bee5" stroke="#9678c0" stroke-width="2.2"/>
+<title>B6: ES 40 nM + TTM + Cu</title>
+<text x="466" y="208" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#2b1f4d">40</text>
+<rect x="509" y="175" width="58" height="54" rx="18" fill="#bca4d9" stroke="#8160ab" stroke-width="2.2"/>
+<title>B7: ES 80 nM + TTM + Cu</title>
+<text x="538" y="208" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#2b1f4d">80</text>
+<rect x="581" y="175" width="58" height="54" rx="18" fill="#9c7dc0" stroke="#5d3f87" stroke-width="2.2"/>
+<title>B8: ES 160 nM + TTM + Cu</title>
+<text x="610" y="208" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#ffffff">160</text>
+<rect x="653" y="175" width="58" height="54" rx="18" fill="#7551a0" stroke="#45276a" stroke-width="2.2"/>
+<title>B9: ES 250 nM + TTM + Cu</title>
+<text x="682" y="208" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#ffffff">250</text>
+<rect x="725" y="175" width="58" height="54" rx="18" fill="#dcfce7" stroke="#22c55e" stroke-width="2.2"/>
+<title>B10: TTM-only
+无 ES / 无 Cu</title>
+<text x="754" y="208" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#14532d">TTM</text>
+<rect x="797" y="175" width="58" height="54" rx="18" fill="#fff3cc" stroke="#d9b94e" stroke-width="2.2"/>
+<title>B11: Early-seed DMSO
+提前铺板对照</title>
+<text x="826" y="201" text-anchor="middle" font-family="Arial" font-size="11" font-weight="700" fill="#5a4a10">Early</text>
+<text x="826" y="215" text-anchor="middle" font-family="Arial" font-size="11" font-weight="700" fill="#5a4a10">DMSO</text>
+<rect x="869" y="175" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>B12: PBS 蒸发屏障</title>
+<text x="898" y="208" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<text x="42" y="281.0" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#64748b">C</text>
+<rect x="77" y="247" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>C1: PBS 蒸发屏障</title>
+<text x="106" y="280" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<rect x="149" y="247" width="58" height="54" rx="18" fill="#d6ebf7" stroke="#5b9bc4" stroke-width="2.2"/>
+<title>C2: TTM + Cu-only
+0 nM ES</title>
+<text x="178" y="280" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f3a52">0</text>
+<rect x="221" y="247" width="58" height="54" rx="18" fill="#f5f1fb" stroke="#c9b6e0" stroke-width="2.2"/>
+<title>C3: ES 5 nM + TTM + Cu</title>
+<text x="250" y="280" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#2b1f4d">5</text>
+<rect x="293" y="247" width="58" height="54" rx="18" fill="#ece4f6" stroke="#bda5d8" stroke-width="2.2"/>
+<title>C4: ES 10 nM + TTM + Cu</title>
+<text x="322" y="280" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#2b1f4d">10</text>
+<rect x="365" y="247" width="58" height="54" rx="18" fill="#e0d2ef" stroke="#ab8fce" stroke-width="2.2"/>
+<title>C5: ES 20 nM + TTM + Cu</title>
+<text x="394" y="280" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#2b1f4d">20</text>
+<rect x="437" y="247" width="58" height="54" rx="18" fill="#d0bee5" stroke="#9678c0" stroke-width="2.2"/>
+<title>C6: ES 40 nM + TTM + Cu</title>
+<text x="466" y="280" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#2b1f4d">40</text>
+<rect x="509" y="247" width="58" height="54" rx="18" fill="#bca4d9" stroke="#8160ab" stroke-width="2.2"/>
+<title>C7: ES 80 nM + TTM + Cu</title>
+<text x="538" y="280" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#2b1f4d">80</text>
+<rect x="581" y="247" width="58" height="54" rx="18" fill="#9c7dc0" stroke="#5d3f87" stroke-width="2.2"/>
+<title>C8: ES 160 nM + TTM + Cu</title>
+<text x="610" y="280" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#ffffff">160</text>
+<rect x="653" y="247" width="58" height="54" rx="18" fill="#7551a0" stroke="#45276a" stroke-width="2.2"/>
+<title>C9: ES 250 nM + TTM + Cu</title>
+<text x="682" y="280" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#ffffff">250</text>
+<rect x="725" y="247" width="58" height="54" rx="18" fill="#dcfce7" stroke="#22c55e" stroke-width="2.2"/>
+<title>C10: TTM-only
+无 ES / 无 Cu</title>
+<text x="754" y="280" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#14532d">TTM</text>
+<rect x="797" y="247" width="58" height="54" rx="18" fill="#fff3cc" stroke="#d9b94e" stroke-width="2.2"/>
+<title>C11: Early-seed DMSO
+提前铺板对照</title>
+<text x="826" y="273" text-anchor="middle" font-family="Arial" font-size="11" font-weight="700" fill="#5a4a10">Early</text>
+<text x="826" y="287" text-anchor="middle" font-family="Arial" font-size="11" font-weight="700" fill="#5a4a10">DMSO</text>
+<rect x="869" y="247" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>C12: PBS 蒸发屏障</title>
+<text x="898" y="280" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<text x="42" y="353.0" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#64748b">D</text>
+<rect x="77" y="319" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>D1: PBS 蒸发屏障</title>
+<text x="106" y="352" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<rect x="149" y="319" width="58" height="54" rx="18" fill="#d6ebf7" stroke="#5b9bc4" stroke-width="2.2"/>
+<title>D2: TTM + Cu-only
+0 nM ES</title>
+<text x="178" y="352" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f3a52">0</text>
+<rect x="221" y="319" width="58" height="54" rx="18" fill="#f5f1fb" stroke="#c9b6e0" stroke-width="2.2"/>
+<title>D3: ES 5 nM + TTM + Cu</title>
+<text x="250" y="352" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#2b1f4d">5</text>
+<rect x="293" y="319" width="58" height="54" rx="18" fill="#ece4f6" stroke="#bda5d8" stroke-width="2.2"/>
+<title>D4: ES 10 nM + TTM + Cu</title>
+<text x="322" y="352" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#2b1f4d">10</text>
+<rect x="365" y="319" width="58" height="54" rx="18" fill="#e0d2ef" stroke="#ab8fce" stroke-width="2.2"/>
+<title>D5: ES 20 nM + TTM + Cu</title>
+<text x="394" y="352" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#2b1f4d">20</text>
+<rect x="437" y="319" width="58" height="54" rx="18" fill="#d0bee5" stroke="#9678c0" stroke-width="2.2"/>
+<title>D6: ES 40 nM + TTM + Cu</title>
+<text x="466" y="352" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#2b1f4d">40</text>
+<rect x="509" y="319" width="58" height="54" rx="18" fill="#bca4d9" stroke="#8160ab" stroke-width="2.2"/>
+<title>D7: ES 80 nM + TTM + Cu</title>
+<text x="538" y="352" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#2b1f4d">80</text>
+<rect x="581" y="319" width="58" height="54" rx="18" fill="#9c7dc0" stroke="#5d3f87" stroke-width="2.2"/>
+<title>D8: ES 160 nM + TTM + Cu</title>
+<text x="610" y="352" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#ffffff">160</text>
+<rect x="653" y="319" width="58" height="54" rx="18" fill="#7551a0" stroke="#45276a" stroke-width="2.2"/>
+<title>D9: ES 250 nM + TTM + Cu</title>
+<text x="682" y="352" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#ffffff">250</text>
+<rect x="725" y="319" width="58" height="54" rx="18" fill="#dcfce7" stroke="#22c55e" stroke-width="2.2"/>
+<title>D10: TTM-only
+无 ES / 无 Cu</title>
+<text x="754" y="352" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#14532d">TTM</text>
+<rect x="797" y="319" width="58" height="54" rx="18" fill="#fff3cc" stroke="#d9b94e" stroke-width="2.2"/>
+<title>D11: Early-seed DMSO
+提前铺板对照</title>
+<text x="826" y="345" text-anchor="middle" font-family="Arial" font-size="11" font-weight="700" fill="#5a4a10">Early</text>
+<text x="826" y="359" text-anchor="middle" font-family="Arial" font-size="11" font-weight="700" fill="#5a4a10">DMSO</text>
+<rect x="869" y="319" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>D12: PBS 蒸发屏障</title>
+<text x="898" y="352" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<text x="42" y="425.0" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#64748b">E</text>
+<rect x="77" y="391" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>E1: PBS 蒸发屏障</title>
+<text x="106" y="424" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<rect x="149" y="391" width="58" height="54" rx="18" fill="#d6ebf7" stroke="#5b9bc4" stroke-width="2.2"/>
+<title>E2: TTM + Cu-only
+0 nM ES</title>
+<text x="178" y="424" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f3a52">0</text>
+<rect x="221" y="391" width="58" height="54" rx="18" fill="#f5f1fb" stroke="#c9b6e0" stroke-width="2.2"/>
+<title>E3: ES 5 nM + TTM + Cu</title>
+<text x="250" y="424" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#2b1f4d">5</text>
+<rect x="293" y="391" width="58" height="54" rx="18" fill="#ece4f6" stroke="#bda5d8" stroke-width="2.2"/>
+<title>E4: ES 10 nM + TTM + Cu</title>
+<text x="322" y="424" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#2b1f4d">10</text>
+<rect x="365" y="391" width="58" height="54" rx="18" fill="#e0d2ef" stroke="#ab8fce" stroke-width="2.2"/>
+<title>E5: ES 20 nM + TTM + Cu</title>
+<text x="394" y="424" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#2b1f4d">20</text>
+<rect x="437" y="391" width="58" height="54" rx="18" fill="#d0bee5" stroke="#9678c0" stroke-width="2.2"/>
+<title>E6: ES 40 nM + TTM + Cu</title>
+<text x="466" y="424" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#2b1f4d">40</text>
+<rect x="509" y="391" width="58" height="54" rx="18" fill="#bca4d9" stroke="#8160ab" stroke-width="2.2"/>
+<title>E7: ES 80 nM + TTM + Cu</title>
+<text x="538" y="424" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#2b1f4d">80</text>
+<rect x="581" y="391" width="58" height="54" rx="18" fill="#9c7dc0" stroke="#5d3f87" stroke-width="2.2"/>
+<title>E8: ES 160 nM + TTM + Cu</title>
+<text x="610" y="424" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#ffffff">160</text>
+<rect x="653" y="391" width="58" height="54" rx="18" fill="#7551a0" stroke="#45276a" stroke-width="2.2"/>
+<title>E9: ES 250 nM + TTM + Cu</title>
+<text x="682" y="424" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#ffffff">250</text>
+<rect x="725" y="391" width="58" height="54" rx="18" fill="#dcfce7" stroke="#22c55e" stroke-width="2.2"/>
+<title>E10: TTM-only
+无 ES / 无 Cu</title>
+<text x="754" y="424" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#14532d">TTM</text>
+<rect x="797" y="391" width="58" height="54" rx="18" fill="#fff3cc" stroke="#d9b94e" stroke-width="2.2"/>
+<title>E11: Early-seed DMSO
+提前铺板对照</title>
+<text x="826" y="417" text-anchor="middle" font-family="Arial" font-size="11" font-weight="700" fill="#5a4a10">Early</text>
+<text x="826" y="431" text-anchor="middle" font-family="Arial" font-size="11" font-weight="700" fill="#5a4a10">DMSO</text>
+<rect x="869" y="391" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>E12: PBS 蒸发屏障</title>
+<text x="898" y="424" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<text x="42" y="497.0" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#64748b">F</text>
+<rect x="77" y="463" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>F1: PBS 蒸发屏障</title>
+<text x="106" y="496" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<rect x="149" y="463" width="58" height="54" rx="18" fill="#d6ebf7" stroke="#5b9bc4" stroke-width="2.2"/>
+<title>F2: TTM + Cu-only
+0 nM ES</title>
+<text x="178" y="496" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f3a52">0</text>
+<rect x="221" y="463" width="58" height="54" rx="18" fill="#f5f1fb" stroke="#c9b6e0" stroke-width="2.2"/>
+<title>F3: ES 5 nM + TTM + Cu</title>
+<text x="250" y="496" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#2b1f4d">5</text>
+<rect x="293" y="463" width="58" height="54" rx="18" fill="#ece4f6" stroke="#bda5d8" stroke-width="2.2"/>
+<title>F4: ES 10 nM + TTM + Cu</title>
+<text x="322" y="496" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#2b1f4d">10</text>
+<rect x="365" y="463" width="58" height="54" rx="18" fill="#e0d2ef" stroke="#ab8fce" stroke-width="2.2"/>
+<title>F5: ES 20 nM + TTM + Cu</title>
+<text x="394" y="496" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#2b1f4d">20</text>
+<rect x="437" y="463" width="58" height="54" rx="18" fill="#d0bee5" stroke="#9678c0" stroke-width="2.2"/>
+<title>F6: ES 40 nM + TTM + Cu</title>
+<text x="466" y="496" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#2b1f4d">40</text>
+<rect x="509" y="463" width="58" height="54" rx="18" fill="#bca4d9" stroke="#8160ab" stroke-width="2.2"/>
+<title>F7: ES 80 nM + TTM + Cu</title>
+<text x="538" y="496" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#2b1f4d">80</text>
+<rect x="581" y="463" width="58" height="54" rx="18" fill="#9c7dc0" stroke="#5d3f87" stroke-width="2.2"/>
+<title>F8: ES 160 nM + TTM + Cu</title>
+<text x="610" y="496" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#ffffff">160</text>
+<rect x="653" y="463" width="58" height="54" rx="18" fill="#7551a0" stroke="#45276a" stroke-width="2.2"/>
+<title>F9: ES 250 nM + TTM + Cu</title>
+<text x="682" y="496" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#ffffff">250</text>
+<rect x="725" y="463" width="58" height="54" rx="18" fill="#dcfce7" stroke="#22c55e" stroke-width="2.2"/>
+<title>F10: TTM-only
+无 ES / 无 Cu</title>
+<text x="754" y="496" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#14532d">TTM</text>
+<rect x="797" y="463" width="58" height="54" rx="18" fill="#fff3cc" stroke="#d9b94e" stroke-width="2.2"/>
+<title>F11: Early-seed DMSO
+提前铺板对照</title>
+<text x="826" y="489" text-anchor="middle" font-family="Arial" font-size="11" font-weight="700" fill="#5a4a10">Early</text>
+<text x="826" y="503" text-anchor="middle" font-family="Arial" font-size="11" font-weight="700" fill="#5a4a10">DMSO</text>
+<rect x="869" y="463" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>F12: PBS 蒸发屏障</title>
+<text x="898" y="496" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<text x="42" y="569.0" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#64748b">G</text>
+<rect x="77" y="535" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>G1: PBS 蒸发屏障</title>
+<text x="106" y="568" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<rect x="149" y="535" width="58" height="54" rx="18" fill="#e8edf3" stroke="#9aa7b5" stroke-width="2.2"/>
+<title>G2: Medium blank</title>
+<text x="178" y="568" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#314052">MB</text>
+<rect x="221" y="535" width="58" height="54" rx="18" fill="#e8edf3" stroke="#9aa7b5" stroke-width="2.2"/>
+<title>G3: Medium blank</title>
+<text x="250" y="568" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#314052">MB</text>
+<rect x="293" y="535" width="58" height="54" rx="18" fill="#e8edf3" stroke="#9aa7b5" stroke-width="2.2"/>
+<title>G4: Medium blank</title>
+<text x="322" y="568" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#314052">MB</text>
+<rect x="365" y="535" width="58" height="54" rx="18" fill="#e8edf3" stroke="#9aa7b5" stroke-width="2.2"/>
+<title>G5: Medium blank</title>
+<text x="394" y="568" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#314052">MB</text>
+<rect x="437" y="535" width="58" height="54" rx="18" fill="#ffd6cc" stroke="#f9735b" stroke-width="2.2"/>
+<title>G6: Drug blank
+ES40 + TTM + Cu</title>
+<text x="466" y="561" text-anchor="middle" font-family="Arial" font-size="10" font-weight="700" fill="#6b1d12">DB</text>
+<text x="466" y="575" text-anchor="middle" font-family="Arial" font-size="10" font-weight="700" fill="#6b1d12">40</text>
+<rect x="509" y="535" width="58" height="54" rx="18" fill="#ffd6cc" stroke="#f9735b" stroke-width="2.2"/>
+<title>G7: Drug blank
+ES80 + TTM + Cu</title>
+<text x="538" y="561" text-anchor="middle" font-family="Arial" font-size="10" font-weight="700" fill="#6b1d12">DB</text>
+<text x="538" y="575" text-anchor="middle" font-family="Arial" font-size="10" font-weight="700" fill="#6b1d12">80</text>
+<rect x="581" y="535" width="58" height="54" rx="18" fill="#ffd6cc" stroke="#f9735b" stroke-width="2.2"/>
+<title>G8: Drug blank
+ES160 + TTM + Cu</title>
+<text x="610" y="561" text-anchor="middle" font-family="Arial" font-size="10" font-weight="700" fill="#6b1d12">DB</text>
+<text x="610" y="575" text-anchor="middle" font-family="Arial" font-size="10" font-weight="700" fill="#6b1d12">160</text>
+<rect x="653" y="535" width="58" height="54" rx="18" fill="#ffd6cc" stroke="#f9735b" stroke-width="2.2"/>
+<title>G9: Drug blank
+ES250 + TTM + Cu</title>
+<text x="682" y="561" text-anchor="middle" font-family="Arial" font-size="10" font-weight="700" fill="#6b1d12">DB</text>
+<text x="682" y="575" text-anchor="middle" font-family="Arial" font-size="10" font-weight="700" fill="#6b1d12">250</text>
+<rect x="725" y="535" width="58" height="54" rx="18" fill="#ffd6cc" stroke="#f9735b" stroke-width="2.2"/>
+<title>G10: Drug blank
+TTM only</title>
+<text x="754" y="561" text-anchor="middle" font-family="Arial" font-size="10" font-weight="700" fill="#6b1d12">DB</text>
+<text x="754" y="575" text-anchor="middle" font-family="Arial" font-size="10" font-weight="700" fill="#6b1d12">TTM</text>
+<rect x="797" y="535" width="58" height="54" rx="18" fill="#ffd6cc" stroke="#f9735b" stroke-width="2.2"/>
+<title>G11: Drug blank
+TTM + ES250 + Cu</title>
+<text x="826" y="561" text-anchor="middle" font-family="Arial" font-size="10" font-weight="700" fill="#6b1d12">DB</text>
+<text x="826" y="575" text-anchor="middle" font-family="Arial" font-size="10" font-weight="700" fill="#6b1d12">T250</text>
+<rect x="869" y="535" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>G12: PBS 蒸发屏障</title>
+<text x="898" y="568" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<text x="42" y="641.0" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#64748b">H</text>
+<rect x="77" y="607" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>H1: PBS 蒸发屏障</title>
+<text x="106" y="640" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<rect x="149" y="607" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>H2: PBS 蒸发屏障</title>
+<text x="178" y="640" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<rect x="221" y="607" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>H3: PBS 蒸发屏障</title>
+<text x="250" y="640" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<rect x="293" y="607" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>H4: PBS 蒸发屏障</title>
+<text x="322" y="640" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<rect x="365" y="607" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>H5: PBS 蒸发屏障</title>
+<text x="394" y="640" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<rect x="437" y="607" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>H6: PBS 蒸发屏障</title>
+<text x="466" y="640" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<rect x="509" y="607" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>H7: PBS 蒸发屏障</title>
+<text x="538" y="640" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<rect x="581" y="607" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>H8: PBS 蒸发屏障</title>
+<text x="610" y="640" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<rect x="653" y="607" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>H9: PBS 蒸发屏障</title>
+<text x="682" y="640" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<rect x="725" y="607" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>H10: PBS 蒸发屏障</title>
+<text x="754" y="640" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<rect x="797" y="607" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>H11: PBS 蒸发屏障</title>
+<text x="826" y="640" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<rect x="869" y="607" width="58" height="54" rx="18" fill="#d8f3ff" stroke="#5daed0" stroke-width="2.2"/>
+<title>H12: PBS 蒸发屏障</title>
+<text x="898" y="640" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#0f4f67">PBS</text>
+<rect x="80" y="700" width="24" height="18" rx="6" fill="#d8f3ff" stroke="#5daed0" stroke-width="2"/>
+<text x="112" y="714" font-family="Arial" font-size="12" fill="#374151">PBS</text>
+<rect x="230" y="700" width="24" height="18" rx="6" fill="#d6ebf7" stroke="#5b9bc4" stroke-width="2"/>
+<text x="262" y="714" font-family="Arial" font-size="12" fill="#374151">0 nM / TTM+Cu</text>
+<rect x="380" y="700" width="24" height="18" rx="6" fill="#bca4d9" stroke="#8160ab" stroke-width="2"/>
+<text x="412" y="714" font-family="Arial" font-size="12" fill="#374151">ES gradient</text>
+<rect x="530" y="700" width="24" height="18" rx="6" fill="#dcfce7" stroke="#22c55e" stroke-width="2"/>
+<text x="562" y="714" font-family="Arial" font-size="12" fill="#374151">TTM-only</text>
+<rect x="680" y="700" width="24" height="18" rx="6" fill="#fff3cc" stroke="#d9b94e" stroke-width="2"/>
+<text x="712" y="714" font-family="Arial" font-size="12" fill="#374151">Early DMSO</text>
+<rect x="830" y="700" width="24" height="18" rx="6" fill="#ffd6cc" stroke="#f9735b" stroke-width="2"/>
+<text x="862" y="714" font-family="Arial" font-size="12" fill="#374151">Blank / drug blank</text>
+</svg>
