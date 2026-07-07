@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="560" viewBox="0 0 800 560" font-family="'Pretendard','Apple SD Gothic Neo','Segoe UI',sans-serif" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+  <g transform="translate(0,-60)">
+
+  <!-- plate card: grid x105-695 y138-514, symmetric 16px -> 89,122,622,410 -->
+  <rect x="89" y="122" width="622" height="410" rx="20" fill="none" stroke="#EFEBE6"/>
+
+  <!-- column numbers -->
+  <g font-size="11.5" fill="#B7B1BE" text-anchor="middle" font-weight="600">
+    <text x="125" y="110">1</text><text x="175" y="110">2</text><text x="225" y="110">3</text><text x="275" y="110">4</text>
+    <text x="325" y="110">5</text><text x="375" y="110">6</text><text x="425" y="110">7</text><text x="475" y="110">8</text>
+    <text x="525" y="110">9</text><text x="575" y="110">10</text><text x="625" y="110">11</text><text x="675" y="110">12</text>
+  </g>
+  <!-- row letters both sides -->
+  <g font-size="11.5" fill="#C4BFCB" text-anchor="middle" font-weight="600">
+    <text x="68" y="162">A</text><text x="68" y="210">B</text><text x="68" y="258">C</text><text x="68" y="306">D</text><text x="68" y="354">E</text><text x="68" y="402">F</text><text x="68" y="450">G</text><text x="68" y="498">H</text>
+    <text x="732" y="162">A</text><text x="732" y="210">B</text><text x="732" y="258">C</text><text x="732" y="306">D</text><text x="732" y="354">E</text><text x="732" y="402">F</text><text x="732" y="450">G</text><text x="732" y="498">H</text>
+  </g>
+
+  <!-- PBS ring -->
+  <g fill="#E9EEF4" stroke="#CFD9E6" stroke-width="1.4">
+    <circle cx="125" cy="158" r="20"/><circle cx="175" cy="158" r="20"/><circle cx="225" cy="158" r="20"/><circle cx="275" cy="158" r="20"/><circle cx="325" cy="158" r="20"/><circle cx="375" cy="158" r="20"/><circle cx="425" cy="158" r="20"/><circle cx="475" cy="158" r="20"/><circle cx="525" cy="158" r="20"/><circle cx="575" cy="158" r="20"/><circle cx="625" cy="158" r="20"/><circle cx="675" cy="158" r="20"/>
+    <circle cx="125" cy="494" r="20"/><circle cx="175" cy="494" r="20"/><circle cx="225" cy="494" r="20"/><circle cx="275" cy="494" r="20"/><circle cx="325" cy="494" r="20"/><circle cx="375" cy="494" r="20"/><circle cx="425" cy="494" r="20"/><circle cx="475" cy="494" r="20"/><circle cx="525" cy="494" r="20"/><circle cx="575" cy="494" r="20"/><circle cx="625" cy="494" r="20"/><circle cx="675" cy="494" r="20"/>
+    <circle cx="125" cy="206" r="20"/><circle cx="675" cy="206" r="20"/>
+    <circle cx="125" cy="254" r="20"/><circle cx="675" cy="254" r="20"/>
+    <circle cx="125" cy="302" r="20"/><circle cx="675" cy="302" r="20"/>
+    <circle cx="125" cy="350" r="20"/><circle cx="675" cy="350" r="20"/>
+    <circle cx="125" cy="398" r="20"/><circle cx="675" cy="398" r="20"/>
+    <circle cx="125" cy="446" r="20"/><circle cx="675" cy="446" r="20"/>
+  </g>
+
+  <!-- inner wells + in-well labels. LEFT cols 175,225,275,325,375 ; RIGHT cols 425,475,525,575,625 ; rows B206 C254 D302 E350 F398 G446 -->
+  <g stroke-width="1.6">
+    <g fill="#C4AEE0" stroke="#9E82CE"><circle cx="175" cy="206" r="20"/><circle cx="225" cy="206" r="20"/><circle cx="275" cy="206" r="20"/><circle cx="325" cy="206" r="20"/><circle cx="375" cy="206" r="20"/></g>
+    <g fill="#D6C6E9" stroke="#B49FDD"><circle cx="175" cy="254" r="20"/><circle cx="225" cy="254" r="20"/><circle cx="275" cy="254" r="20"/><circle cx="325" cy="254" r="20"/><circle cx="375" cy="254" r="20"/></g>
+    <g fill="#E6DBF2" stroke="#C7B6E5"><circle cx="175" cy="302" r="20"/><circle cx="225" cy="302" r="20"/><circle cx="275" cy="302" r="20"/><circle cx="325" cy="302" r="20"/><circle cx="375" cy="302" r="20"/></g>
+    <g fill="#F1EAF8" stroke="#D8CBEB"><circle cx="175" cy="350" r="20"/><circle cx="225" cy="350" r="20"/><circle cx="275" cy="350" r="20"/><circle cx="325" cy="350" r="20"/><circle cx="375" cy="350" r="20"/></g>
+    <g fill="#CFEAE3" stroke="#9FD2C7"><circle cx="175" cy="398" r="20"/><circle cx="225" cy="398" r="20"/><circle cx="275" cy="398" r="20"/><circle cx="325" cy="398" r="20"/><circle cx="375" cy="398" r="20"/></g>
+    <g fill="#EFEEF0" stroke="#CFCCD5" stroke-dasharray="3 3"><circle cx="175" cy="446" r="20"/><circle cx="225" cy="446" r="20"/><circle cx="275" cy="446" r="20"/><circle cx="325" cy="446" r="20"/><circle cx="375" cy="446" r="20"/></g>
+
+    <g fill="#D2E9D4" stroke="#A6D2A9"><circle cx="425" cy="206" r="20"/><circle cx="475" cy="206" r="20"/><circle cx="525" cy="206" r="20"/><circle cx="575" cy="206" r="20"/><circle cx="625" cy="206" r="20"/></g>
+    <g fill="#F6DABE" stroke="#E7B98C"><circle cx="425" cy="254" r="20"/><circle cx="475" cy="254" r="20"/><circle cx="525" cy="254" r="20"/><circle cx="575" cy="254" r="20"/><circle cx="625" cy="254" r="20"/></g>
+    <g fill="#7C5CB8" stroke="#674AA6"><circle cx="425" cy="302" r="20"/><circle cx="475" cy="302" r="20"/><circle cx="525" cy="302" r="20"/><circle cx="575" cy="302" r="20"/><circle cx="625" cy="302" r="20"/></g>
+    <g fill="#9070C4" stroke="#7C5CB8"><circle cx="425" cy="350" r="20"/><circle cx="475" cy="350" r="20"/><circle cx="525" cy="350" r="20"/><circle cx="575" cy="350" r="20"/><circle cx="625" cy="350" r="20"/></g>
+    <g fill="#A88DD2" stroke="#9070C4"><circle cx="425" cy="398" r="20"/><circle cx="475" cy="398" r="20"/><circle cx="525" cy="398" r="20"/><circle cx="575" cy="398" r="20"/><circle cx="625" cy="398" r="20"/></g>
+    <g fill="#BBA6DF" stroke="#A88DD2"><circle cx="425" cy="446" r="20"/><circle cx="475" cy="446" r="20"/><circle cx="525" cy="446" r="20"/><circle cx="575" cy="446" r="20"/><circle cx="625" cy="446" r="20"/></g>
+  </g>
+
+  <!-- in-well labels -->
+  <g text-anchor="middle" font-weight="700" font-size="11">
+    <g fill="#5A4A86"><text x="175" y="210">80</text><text x="225" y="210">80</text><text x="275" y="210">80</text><text x="325" y="210">80</text><text x="375" y="210">80</text></g>
+    <g fill="#5A4A86"><text x="175" y="258">40</text><text x="225" y="258">40</text><text x="275" y="258">40</text><text x="325" y="258">40</text><text x="375" y="258">40</text></g>
+    <g fill="#6A5A96"><text x="175" y="306">20</text><text x="225" y="306">20</text><text x="275" y="306">20</text><text x="325" y="306">20</text><text x="375" y="306">20</text></g>
+    <g fill="#8877A8"><text x="175" y="354">10</text><text x="225" y="354">10</text><text x="275" y="354">10</text><text x="325" y="354">10</text><text x="375" y="354">10</text></g>
+    <g fill="#3E8C7C"><text x="175" y="402">0</text><text x="225" y="402">0</text><text x="275" y="402">0</text><text x="325" y="402">0</text><text x="375" y="402">0</text></g>
+    <g fill="#9A96A2" font-size="10"><text x="175" y="450">BLK</text><text x="225" y="450">BLK</text><text x="275" y="450">BLK</text><text x="325" y="450">BLK</text><text x="375" y="450">BLK</text></g>
+
+    <g fill="#3E8C55"><text x="425" y="210">CT</text><text x="475" y="210">CT</text><text x="525" y="210">CT</text><text x="575" y="210">CT</text><text x="625" y="210">CT</text></g>
+    <g fill="#B5792F" font-size="10"><text x="425" y="258">ES</text><text x="475" y="258">ES</text><text x="525" y="258">ES</text><text x="575" y="258">ES</text><text x="625" y="258">ES</text></g>
+    <g fill="#FFFFFF" font-size="10"><text x="425" y="306">1280</text><text x="475" y="306">1280</text><text x="525" y="306">1280</text><text x="575" y="306">1280</text><text x="625" y="306">1280</text></g>
+    <g fill="#FFFFFF"><text x="425" y="354">640</text><text x="475" y="354">640</text><text x="525" y="354">640</text><text x="575" y="354">640</text><text x="625" y="354">640</text></g>
+    <g fill="#FFFFFF"><text x="425" y="402">320</text><text x="475" y="402">320</text><text x="525" y="402">320</text><text x="575" y="402">320</text><text x="625" y="402">320</text></g>
+    <g fill="#4A4066"><text x="425" y="450">160</text><text x="475" y="450">160</text><text x="525" y="450">160</text><text x="575" y="450">160</text><text x="625" y="450">160</text></g>
+  </g>
+
+  <!-- legend -->
+  <rect x="89" y="548" width="622" height="56" rx="14" fill="none" stroke="#EFEBE6"/>
+  <g font-size="11.5" fill="#7A7488">
+    <circle cx="112" cy="568" r="7" fill="#A88DD2" stroke="#9070C4"/><text x="125" y="572">ES 梯度 +Cu 1µM（10–1280 nM）</text>
+    <circle cx="330" cy="568" r="7" fill="#CFEAE3" stroke="#9FD2C7"/><text x="343" y="572">0 = Cu 单独毒性</text>
+    <circle cx="470" cy="568" r="7" fill="#F6DABE" stroke="#E7B98C"/><text x="483" y="572">ES = ES only 1280（无 Cu）</text>
+    <circle cx="112" cy="590" r="7" fill="#D2E9D4" stroke="#A6D2A9"/><text x="125" y="594">CT 未处理 = 100%</text>
+    <circle cx="280" cy="590" r="7" fill="#EFEEF0" stroke="#CFCCD5" stroke-dasharray="3 3"/><text x="293" y="594">BLK 无细胞 = 背景</text>
+    <circle cx="450" cy="590" r="7" fill="#E9EEF4" stroke="#CFD9E6"/><text x="463" y="594">PBS 屏障 200 µL</text>
+  </g>
+  </g>
+</svg>
