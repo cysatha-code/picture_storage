@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="560" viewBox="0 0 800 560" font-family="'Pretendard','Apple SD Gothic Neo','Segoe UI',sans-serif" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+  <g transform="translate(0,-60)">
+
+  <rect x="89" y="122" width="622" height="410" rx="20" fill="none" stroke="#EFEBE6"/>
+
+  <g font-size="11.5" fill="#B7B1BE" text-anchor="middle" font-weight="600">
+    <text x="125" y="110">1</text><text x="175" y="110">2</text><text x="225" y="110">3</text><text x="275" y="110">4</text>
+    <text x="325" y="110">5</text><text x="375" y="110">6</text><text x="425" y="110">7</text><text x="475" y="110">8</text>
+    <text x="525" y="110">9</text><text x="575" y="110">10</text><text x="625" y="110">11</text><text x="675" y="110">12</text>
+  </g>
+  <g font-size="11.5" fill="#C4BFCB" text-anchor="middle" font-weight="600">
+    <text x="68" y="162">A</text><text x="68" y="210">B</text><text x="68" y="258">C</text><text x="68" y="306">D</text><text x="68" y="354">E</text><text x="68" y="402">F</text><text x="68" y="450">G</text><text x="68" y="498">H</text>
+    <text x="732" y="162">A</text><text x="732" y="210">B</text><text x="732" y="258">C</text><text x="732" y="306">D</text><text x="732" y="354">E</text><text x="732" y="402">F</text><text x="732" y="450">G</text><text x="732" y="498">H</text>
+  </g>
+
+  <!-- PBS ring -->
+  <g fill="#E9EEF4" stroke="#CFD9E6" stroke-width="1.4">
+    <circle cx="125" cy="158" r="20"/><circle cx="175" cy="158" r="20"/><circle cx="225" cy="158" r="20"/><circle cx="275" cy="158" r="20"/><circle cx="325" cy="158" r="20"/><circle cx="375" cy="158" r="20"/><circle cx="425" cy="158" r="20"/><circle cx="475" cy="158" r="20"/><circle cx="525" cy="158" r="20"/><circle cx="575" cy="158" r="20"/><circle cx="625" cy="158" r="20"/><circle cx="675" cy="158" r="20"/>
+    <circle cx="125" cy="494" r="20"/><circle cx="175" cy="494" r="20"/><circle cx="225" cy="494" r="20"/><circle cx="275" cy="494" r="20"/><circle cx="325" cy="494" r="20"/><circle cx="375" cy="494" r="20"/><circle cx="425" cy="494" r="20"/><circle cx="475" cy="494" r="20"/><circle cx="525" cy="494" r="20"/><circle cx="575" cy="494" r="20"/><circle cx="625" cy="494" r="20"/><circle cx="675" cy="494" r="20"/>
+    <circle cx="125" cy="206" r="20"/><circle cx="675" cy="206" r="20"/>
+    <circle cx="125" cy="254" r="20"/><circle cx="675" cy="254" r="20"/>
+    <circle cx="125" cy="302" r="20"/><circle cx="675" cy="302" r="20"/>
+    <circle cx="125" cy="350" r="20"/><circle cx="675" cy="350" r="20"/>
+    <circle cx="125" cy="398" r="20"/><circle cx="675" cy="398" r="20"/>
+    <circle cx="125" cy="446" r="20"/><circle cx="675" cy="446" r="20"/>
+  </g>
+
+  <!-- density columns rows B-G (y206..446) -->
+  <g stroke-width="1.6">
+    <g fill="#EFEEF0" stroke="#CFCCD5" stroke-dasharray="3 3"><circle cx="175" cy="206" r="20"/><circle cx="175" cy="254" r="20"/><circle cx="175" cy="302" r="20"/><circle cx="175" cy="350" r="20"/><circle cx="175" cy="398" r="20"/><circle cx="175" cy="446" r="20"/></g>
+    <g fill="#E3F2F1" stroke="#B9E0DB"><circle cx="225" cy="206" r="20"/><circle cx="225" cy="254" r="20"/><circle cx="225" cy="302" r="20"/><circle cx="225" cy="350" r="20"/><circle cx="225" cy="398" r="20"/><circle cx="225" cy="446" r="20"/></g>
+    <g fill="#CDEAE7" stroke="#A2D6D0"><circle cx="275" cy="206" r="20"/><circle cx="275" cy="254" r="20"/><circle cx="275" cy="302" r="20"/><circle cx="275" cy="350" r="20"/><circle cx="275" cy="398" r="20"/><circle cx="275" cy="446" r="20"/></g>
+    <g fill="#B0DFD9" stroke="#86C9C1"><circle cx="325" cy="206" r="20"/><circle cx="325" cy="254" r="20"/><circle cx="325" cy="302" r="20"/><circle cx="325" cy="350" r="20"/><circle cx="325" cy="398" r="20"/><circle cx="325" cy="446" r="20"/></g>
+    <g fill="#93D4CE" stroke="#6ABBB2"><circle cx="375" cy="206" r="20"/><circle cx="375" cy="254" r="20"/><circle cx="375" cy="302" r="20"/><circle cx="375" cy="350" r="20"/><circle cx="375" cy="398" r="20"/><circle cx="375" cy="446" r="20"/></g>
+    <g fill="#72C6BE" stroke="#52ABA1"><circle cx="425" cy="206" r="20"/><circle cx="425" cy="254" r="20"/><circle cx="425" cy="302" r="20"/><circle cx="425" cy="350" r="20"/><circle cx="425" cy="398" r="20"/><circle cx="425" cy="446" r="20"/></g>
+    <g fill="#55B7AD" stroke="#3E988E"><circle cx="475" cy="206" r="20"/><circle cx="475" cy="254" r="20"/><circle cx="475" cy="302" r="20"/><circle cx="475" cy="350" r="20"/><circle cx="475" cy="398" r="20"/><circle cx="475" cy="446" r="20"/></g>
+    <g fill="#3EA69C" stroke="#2E8880"><circle cx="525" cy="206" r="20"/><circle cx="525" cy="254" r="20"/><circle cx="525" cy="302" r="20"/><circle cx="525" cy="350" r="20"/><circle cx="525" cy="398" r="20"/><circle cx="525" cy="446" r="20"/></g>
+    <g fill="#2E958C" stroke="#217269"><circle cx="575" cy="206" r="20"/><circle cx="575" cy="254" r="20"/><circle cx="575" cy="302" r="20"/><circle cx="575" cy="350" r="20"/><circle cx="575" cy="398" r="20"/><circle cx="575" cy="446" r="20"/></g>
+    <g fill="#F2F1F3" stroke="#DAD8DE"><circle cx="625" cy="206" r="20"/><circle cx="625" cy="254" r="20"/><circle cx="625" cy="302" r="20"/><circle cx="625" cy="350" r="20"/><circle cx="625" cy="398" r="20"/><circle cx="625" cy="446" r="20"/></g>
+  </g>
+
+  <!-- in-well density labels (col2..col11) -->
+  <g text-anchor="middle" font-weight="700" font-size="10">
+    <g fill="#9A96A2"><text x="175" y="210">BLK</text><text x="175" y="258">BLK</text><text x="175" y="306">BLK</text><text x="175" y="354">BLK</text><text x="175" y="402">BLK</text><text x="175" y="450">BLK</text></g>
+    <g fill="#3E8C7C"><text x="225" y="210">500</text><text x="225" y="258">500</text><text x="225" y="306">500</text><text x="225" y="354">500</text><text x="225" y="402">500</text><text x="225" y="450">500</text></g>
+    <g fill="#358579"><text x="275" y="210">1000</text><text x="275" y="258">1000</text><text x="275" y="306">1000</text><text x="275" y="354">1000</text><text x="275" y="402">1000</text><text x="275" y="450">1000</text></g>
+    <g fill="#2E7D71"><text x="325" y="210">1500</text><text x="325" y="258">1500</text><text x="325" y="306">1500</text><text x="325" y="354">1500</text><text x="325" y="402">1500</text><text x="325" y="450">1500</text></g>
+    <g fill="#276E63"><text x="375" y="210">2000</text><text x="375" y="258">2000</text><text x="375" y="306">2000</text><text x="375" y="354">2000</text><text x="375" y="402">2000</text><text x="375" y="450">2000</text></g>
+    <g fill="#1E5F55"><text x="425" y="210">3000</text><text x="425" y="258">3000</text><text x="425" y="306">3000</text><text x="425" y="354">3000</text><text x="425" y="402">3000</text><text x="425" y="450">3000</text></g>
+    <g fill="#FFFFFF"><text x="475" y="210">4000</text><text x="475" y="258">4000</text><text x="475" y="306">4000</text><text x="475" y="354">4000</text><text x="475" y="402">4000</text><text x="475" y="450">4000</text></g>
+    <g fill="#FFFFFF"><text x="525" y="210">6000</text><text x="525" y="258">6000</text><text x="525" y="306">6000</text><text x="525" y="354">6000</text><text x="525" y="402">6000</text><text x="525" y="450">6000</text></g>
+    <g fill="#FFFFFF"><text x="575" y="210">8000</text><text x="575" y="258">8000</text><text x="575" y="306">8000</text><text x="575" y="354">8000</text><text x="575" y="402">8000</text><text x="575" y="450">8000</text></g>
+    <g fill="#B0AAB8"><text x="625" y="210">备用</text><text x="625" y="258">备用</text><text x="625" y="306">备用</text><text x="625" y="354">备用</text><text x="625" y="402">备用</text><text x="625" y="450">备用</text></g>
+  </g>
+
+  <!-- legend -->
+  <rect x="89" y="548" width="622" height="56" rx="14" fill="none" stroke="#EFEBE6"/>
+  <g font-size="11.5" fill="#7A7488">
+    <circle cx="112" cy="576" r="7" fill="#E3F2F1" stroke="#B9E0DB"/><circle cx="128" cy="576" r="7" fill="#93D4CE" stroke="#6ABBB2"/><circle cx="144" cy="576" r="7" fill="#2E958C" stroke="#217269"/>
+    <text x="158" y="580">接种密度 低 → 高（500–8000 cells/孔）</text>
+    <circle cx="420" cy="576" r="7" fill="#EFEEF0" stroke="#CFCCD5" stroke-dasharray="3 3"/><text x="433" y="580">BLK 无细胞（0）= 背景</text>
+    <circle cx="112" cy="596" r="7" fill="#E9EEF4" stroke="#CFD9E6"/><text x="125" y="600">PBS 屏障 · 纵向 6 复孔 · 3 板 P24/P48/P72 同铺 · 判据：72h 对照 OD 0.8–1.5</text>
+  </g>
+  </g>
+</svg>
